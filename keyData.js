@@ -8,7 +8,8 @@ var dataSet = [{
 }];
 /* Sample Object node
 {
-    "srcKeywords": [{ name: "Front", score: 1 }, { name: "java", score: 1 }, { name: "j2ee", score: 1 }], // Add the keys name with there score
+    "
+    ": [{ name: "Front", score: 1 }, { name: "java", score: 1 }, { name: "j2ee", score: 1 }], // Add the keys name with there score
     "srcFieldName": "content/content2", // add the field on which the scoring will be done on 
     "tagName": "pScore/nScore", // Name of the fields in which Score result will be saved
     "operation": "remove/tag", // operation either remove or tag the data
